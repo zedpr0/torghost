@@ -14,7 +14,7 @@ from packaging import version
 
 VERSION = "3.1.1"
 
-IP_API = "https://api.ipify.org/?format=json"
+IP_API = "https://ip.seeip.org/jsonip?"
 
 LATEST_RELEASE_API = "https://api.github.com/repos/SusmithKrishnan/torghost/releases/latest"
 
